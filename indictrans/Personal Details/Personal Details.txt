@@ -1,0 +1,16 @@
+Name - Ajit Balaji Birajdar 
+
+Name of Project -
+1. Car price Prediction - It is Done in Machine Learning using algorihtms like losso and Linear regression.
+  By ananlyzing Features of car like mileage , speed, car is wheather petrol or diseal etc.
+
+2. Student managment - Technologies are used in this project are Html,css,JavaScript and Django. By collecting data of Vishnupuri
+  Z.P. we make student managemnt software.this software stores marks of students and also gnerate their Bonafide Certificate.
+
+Goal - TO achieve Best position in IT Sector 
+
+Subject Of Interest - Cpp, Problem solving ,Machine Learning, SQL. 
+
+ 
+
+

@@ -1,0 +1,2 @@
+13. update table Customers
+    set city 'Mumbai'='Delhi'

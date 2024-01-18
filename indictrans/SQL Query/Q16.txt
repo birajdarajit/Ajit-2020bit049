@@ -1,0 +1,3 @@
+16.select Customer_id,NO_of_items from Orders
+    No_of_items order by desc limit (3)
+     

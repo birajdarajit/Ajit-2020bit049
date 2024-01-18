@@ -1,0 +1,3 @@
+12.   select avg(Gross_Total) from Orders
+      inner join Customers
+      where Orders.id=Customers.id
